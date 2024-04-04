@@ -12,7 +12,7 @@ t<h1>Hi, I'm Tristan! <br/></h1>
 
 - <b>Raspberry Pi Projects</b>
   - [Raspberry Pi/Headless setup](https://github.com/tristanjtate/RaspPiSetup/blob/main/README.md)
-  - [PIHOLE DNS SINKHOLE](https://github.com/tristanjtate/fixme)
+  - [PIHOLE DNS SINKHOLE](https://github.com/tristanjtate/pihole/blob/main/README.md)
   - [PIVPN](https://github.com/tristanjtate/fixme)
 
 
