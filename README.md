@@ -1,4 +1,4 @@
-t<h1>Hi, I'm Tristan! <br/></h1>
+<h1>Hi, I'm Tristan! </h1>
 
 <h2>🌱Certifications:</h2>
 
