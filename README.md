@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tristan! <br/></h1>
+t<h1>Hi, I'm Tristan! <br/></h1>
 
 <h2>🌱Certifications:</h2>
 
@@ -11,6 +11,7 @@
 <h2>👨‍💻 My IT Projects:</h2>
 
 - <b>Raspberry Pi Projects</b>
+  - [Raspberry Pi/Headless setup](https://github.com/tristanjtate/RaspPiSetup/blob/main/README.md)
   - [PIHOLE DNS SINKHOLE](https://github.com/tristanjtate/fixme)
   - [PIVPN](https://github.com/tristanjtate/fixme)
 
