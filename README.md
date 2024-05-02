@@ -15,6 +15,8 @@
   - [PIHOLE DNS SINKHOLE](https://github.com/tristanjtate/pihole/blob/main/README.md)
   - [PIVPN](https://github.com/tristanjtate/pivpn)
 
+<h2>Portfolio Website</h2>
+- [Portfolio Repo](https://github.com/tristanjtate/portfolio-html-css-js)
 
 
 <h2> 🤳 Connect with me:</h2>
