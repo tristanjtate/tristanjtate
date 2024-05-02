@@ -16,7 +16,14 @@
   - [PIVPN](https://github.com/tristanjtate/pivpn)
 
 <h2>Portfolio Website</h2>
-- [Portfolio Repo](https://github.com/tristanjtate/portfolio-html-css-js)
+<ul>
+  <li>
+    <a href="https://github.com/tristanjtate/portfolio-html-css-js">Portfolio Repo</a>
+  </li>
+  <li>
+    actual website link coming
+  </li>
+</ul>
 
 
 <h2> 🤳 Connect with me:</h2>
