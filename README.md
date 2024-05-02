@@ -21,7 +21,7 @@
     <a href="https://github.com/tristanjtate/portfolio-html-css-js">Portfolio Repo</a>
   </li>
   <li>
-    actual website link coming
+    <a href="https://tristanjtate.github.io/myportfolio/">Actual Portfolio Website</a>
   </li>
 </ul>
 
