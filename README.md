@@ -6,6 +6,7 @@
 - [CompTIA A+](https://www.credly.com/badges/ff5a0b42-fb25-45b0-bd90-4bc49af67639/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/fa480bb9-eef4-46ee-8862-55c450d13523/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/4df6b1d5-6cc1-4926-a6a7-836f9f9299a5/public_url)
+- [CompTIA Cloud+)](https://www.credly.com/badges/cfac5bc7-6017-423d-a44d-8a1c67fff5e2/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000606555/ytvbkvursn)
 - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/TristanTate-1478/3DE9FA22CEFBD3DE?sharingId=D41652C39C00548A)
 
