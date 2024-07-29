@@ -10,7 +10,12 @@
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000606555/ytvbkvursn)
 - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/TristanTate-1478/3DE9FA22CEFBD3DE?sharingId=D41652C39C00548A)
 
-## 👨‍💻 My IT Projects:
+## 👨‍💻 My Projects:
+
+
+## Python Projects
+- [Scrabble Scorer](https://github.com/tristanjtate/scrabble_example)
+
 
 ### Raspberry Pi Projects
 
