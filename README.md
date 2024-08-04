@@ -15,6 +15,7 @@
 
 ## Python Projects
 - [Scrabble Scorer](https://github.com/tristanjtate/scrabble_example)
+- [You VS Zombie](https://github.com/tristanjtate/YouVSZombie)
 
 
 ### Raspberry Pi Projects
