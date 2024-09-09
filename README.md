@@ -12,6 +12,10 @@
 
 ## 👨‍💻 My Projects:
 
+## Software Engineering Coursework Projects
+- [Version Control using Git for GitLab](https://github.com/tristanjtate/Version-Control-Project)
+
+
 
 ## Python Projects
 - [Scrabble Scorer](https://github.com/tristanjtate/scrabble_example)
