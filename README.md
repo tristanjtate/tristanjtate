@@ -14,6 +14,7 @@
 
 ## Software Engineering Coursework Projects
 - [Version Control using Git for GitLab](https://github.com/tristanjtate/Version-Control-Project)
+- [State website - Front-End Project](https://tristanjtate.github.io/stateWebsite/) - [State website - Repo](https://github.com/tristanjtate/stateWebsite)
 
 
 
