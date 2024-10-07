@@ -19,10 +19,8 @@
 
 
 ## Python Projects
-- [Scrabble Scorer](https://github.com/tristanjtate/scrabble_example)
 - [You VS Zombie](https://github.com/tristanjtate/YouVSZombie)
-- [Towers of Hanoi](https://github.com/tristanjtate/Towers-of-Hanoi/tree/main)
-- [Adventure with Tree Nodes](https://github.com/tristanjtate/Adventure-with-Tree-Nodes)
+
 
 
 ### Raspberry Pi Projects
