@@ -1,5 +1,10 @@
 # Hi, I'm Tristan!
 
+## Portfolio Website
+
+- [Actual Portfolio Website](https://tristanjtate.github.io/PersonalPortfolio/)
+- [Portfolio Repo](https://github.com/tristanjtate/PersonalPortfolio)
+
 ## 🌱 Certifications:
 
 - [Google IT Support](https://www.credly.com/badges/4f2a8fc2-9221-4923-bd33-4a26b244f44c/public_url)
@@ -30,10 +35,7 @@
 - [PiVPN using Wireguard](https://github.com/tristanjtate/pivpn)
 - [PiNAS Firewall Project: Raspberry Pi Network-Attached Storage and Firewall Setup](https://github.com/tristanjtate/pinas)
 
-## Portfolio Website
 
-- [Portfolio Repo](https://github.com/tristanjtate/portfolio-html-css-js)
-- [Actual Portfolio Website](https://tristanjtate.github.io/myportfolio/)
 
 ## 🤳 Connect with me:
 
