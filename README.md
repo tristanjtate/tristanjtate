@@ -27,7 +27,7 @@
 - [You VS Zombie](https://github.com/tristanjtate/YouVSZombie)
 
 ### Code Challenges
-- [Codecademy Spooktober Challenge 🎃 - Witch's Cauldron Potion Game](https://tristanjtate.github.io/spookTober/) -[Here is the repo!](https://github.com/tristanjtate/spookTober)
+- [Codecademy Spooktober Challenge 🎃 - Witch's Cauldron Potion Game](https://tristanjtate.github.io/spookTober/) -[Here is the repo!](https://github.com/tristanjtate/spookTober) I WON A TOTE BAG!
 
 
 
