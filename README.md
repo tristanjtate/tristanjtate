@@ -1,4 +1,4 @@
-# Hi, I'm Tristan!
+# Hi, I'm Tristan/TJ!
 
 ## Portfolio Website
 
