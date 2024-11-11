@@ -23,6 +23,7 @@
 
 ### 🖼️ Frontend Development Projects
   - [QR Component - Frontend Mentor](https://tristanjtate.github.io/QrCodeComponent/) - [Repo](https://github.com/tristanjtate/QrCodeComponent)
+  - [Interactive Rating Component (implemented TailwindCSS) - Frontend Mentor](https://tristanjtate.github.io/interactive-rating-component/) - [Repo](https://github.com/tristanjtate/interactive-rating-component)
 
 
 
