@@ -2,8 +2,8 @@
 
 ## 🌐 Portfolio Website
 
-  - [Actual Portfolio Website](https://tristanjtate.github.io/PersonalPortfolio/)
-  - [Portfolio Repo](https://github.com/tristanjtate/PersonalPortfolio)
+  - [Actual Portfolio Website (CURRENTLY UPDATING)](https://tristanjtate.github.io/PersonalPortfolio/)
+   
 
 ## 🌱 Certifications:
 
