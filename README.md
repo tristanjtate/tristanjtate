@@ -2,7 +2,7 @@
 
 ## 🌐 Portfolio Website
 
-  - [Actual Portfolio Website (CURRENTLY UPDATING)](https://tristanjtate.github.io/PersonalPortfolio/)
+  - [Actual Portfolio Website (Updating soon - transitioning into Data Analytics)](https://tristanjtate.github.io/PersonalPortfolio/)
    
 
 ## 🌱 Certifications:
