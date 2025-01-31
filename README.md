@@ -19,6 +19,7 @@
 
 ### 📊 Data Analysis Projects
  - [Student Exam Score Analysis](https://github.com/tristanjtate/StudentExamScoreAnalysis)
+ - [Adv. Data Management - DVD RENTAL](https://github.com/tristanjtate/Adv-DataManagementD326/tree/main)
 
 ### 👨🏽‍🎓 Various Coursework Projects
   - [Version Control using Git for GitLab](https://github.com/tristanjtate/Version-Control-Project)
