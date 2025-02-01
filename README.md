@@ -1,19 +1,5 @@
 # Hi, I'm Tristan/TJ!
-
-## 🌐 Portfolio Website
-
-  - [Actual Portfolio Website (Updating soon - transitioning into Data Analytics)](https://tristanjtate.github.io/PersonalPortfolio/)
-   
-
-## 🌱 Certifications:
-
-  - [Google IT Support](https://www.credly.com/badges/4f2a8fc2-9221-4923-bd33-4a26b244f44c/public_url)
-  - [CompTIA A+](https://www.credly.com/badges/ff5a0b42-fb25-45b0-bd90-4bc49af67639/public_url)
-  - [CompTIA Network+](https://www.credly.com/badges/fa480bb9-eef4-46ee-8862-55c450d13523/public_url)
-  - [CompTIA Security+](https://www.credly.com/badges/4df6b1d5-6cc1-4926-a6a7-836f9f9299a5/public_url)
-  - [CompTIA Cloud+](https://www.credly.com/badges/cfac5bc7-6017-423d-a44d-8a1c67fff5e2/public_url)
-  - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000606555/ytvbkvursn)
-  - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/TristanTate-1478/3DE9FA22CEFBD3DE?sharingId=D41652C39C00548A)
+- A current Data Analytic Student pursuing my Bachelors at Western Governors University. Now, I am no expert at Github...but I actively try to keep this main repository of other repo projects, accomplishments, certs available to showcase to the world. By the world I mean recruiters and hiring managers to see this and hoping they say something like "Wow, hes actually doing that Github thing". In all seriousness, I think think its a great platform to get familar with and I am glad you stopped by. Take care!
 
 ## 👨‍💻 My Projects:
 
@@ -45,6 +31,24 @@
   - [Pihole DNS Sinkhole Server](https://github.com/tristanjtate/pihole/blob/main/README.md)
   - [PiVPN using Wireguard](https://github.com/tristanjtate/pivpn)
   - [PiNAS Firewall Project: Raspberry Pi Network-Attached Storage and Firewall Setup](https://github.com/tristanjtate/pinas)
+
+    
+
+## 🌐 Portfolio Website
+
+  - [Actual Portfolio Website (Updating! - transitioning into Data Analytics)](https://tristanjtate.github.io/PersonalPortfolio/)
+   
+
+## 🌱 Certifications:
+
+  - [Google IT Support](https://www.credly.com/badges/4f2a8fc2-9221-4923-bd33-4a26b244f44c/public_url)
+  - [CompTIA A+](https://www.credly.com/badges/ff5a0b42-fb25-45b0-bd90-4bc49af67639/public_url)
+  - [CompTIA Network+](https://www.credly.com/badges/fa480bb9-eef4-46ee-8862-55c450d13523/public_url)
+  - [CompTIA Security+](https://www.credly.com/badges/4df6b1d5-6cc1-4926-a6a7-836f9f9299a5/public_url)
+  - [CompTIA Cloud+](https://www.credly.com/badges/cfac5bc7-6017-423d-a44d-8a1c67fff5e2/public_url)
+  - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000606555/ytvbkvursn)
+  - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/TristanTate-1478/3DE9FA22CEFBD3DE?sharingId=D41652C39C00548A)
+
 
 
 
