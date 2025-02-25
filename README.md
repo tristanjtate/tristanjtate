@@ -4,6 +4,7 @@
 ## 👨‍💻 My Projects:
 
 ### 📊 Data Analysis Projects
+ - [World Layoffs - Data Cleaning & EDA MySQL Analysis](https://github.com/tristanjtate/Layoffs_analysis_Project)
  - [Student Exam Score Analysis](https://github.com/tristanjtate/StudentExamScoreAnalysis)
  - [Adv. Data Management - DVD RENTAL](https://github.com/tristanjtate/Adv-DataManagementD326/tree/main)
 
