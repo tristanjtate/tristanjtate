@@ -1,5 +1,5 @@
 # Hi, I'm Tristan/TJ!
-- A current Data Analytic Student pursuing my Bachelors at Western Governors University. Now, I am no expert at Github...but I actively try to keep this main repository of other repo projects, accomplishments, certs available to showcase to the world. By the world I mean recruiters and hiring managers to see this and hoping they say something like "Wow, hes actually doing that Github thing". In all seriousness, I think think its a great platform to get familar with and I am glad you stopped by. Take care!
+- A current Data Analytic Student pursuing my Bachelors at Western Governors University. Now, I am no expert at Github...but I actively try to keep this main repository of other repo projects, accomplishments, certs available to showcase to the world. I think its a great platform to get familiar with and I am glad you stopped by. Take care!
 
 ## 👨‍💻 My Projects:
 
