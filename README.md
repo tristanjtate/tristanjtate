@@ -4,7 +4,7 @@
 ## 👨‍💻 My Projects:
 
 ### 📊 Data Analysis Projects + Data Visualization Projects
--  [Retail Discount Promo Analysis (My most recent! Check it out)](https://public.tableau.com/app/profile/tristan.t4195/viz/AirbnbTableauProject_17430964955000/Dashboard1)
+-  [Retail Discount Promo Analysis (My most recent! Check it out)](https://github.com/tristanjtate/discount-promo-analysis)
  - [Airbnb Tableau Project](https://public.tableau.com/app/profile/tristan.t4195/viz/AirbnbTableauProject_17430964955000/Dashboard1)
  - [World Layoffs - Data Cleaning & EDA MySQL Analysis](https://github.com/tristanjtate/Layoffs_analysis_Project)
  - [Student Exam Score Analysis](https://github.com/tristanjtate/StudentExamScoreAnalysis)
