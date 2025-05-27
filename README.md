@@ -1,4 +1,4 @@
-# Hi, I'm Tristan/TJ!
+# Hi, I'm Tristan!
 - A current Data Analytic Student pursuing my Bachelors at Western Governors University. I actively keep this main repository updated of other repo projects generally by using git locally to push to a remote repo. These will be my accomplishments; certifications, projects, and other items I want to showcase. I think its a great platform to get familiar with and I am glad you stopped by. Take care!
 
 ## 👨‍💻 My Projects:
