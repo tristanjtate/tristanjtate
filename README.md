@@ -4,7 +4,8 @@
 ## 👨‍💻 My Projects:
 
 ### 📊 Data Analysis Projects + Data Visualization Projects
--  [Retail Discount Promo Analysis (My most recent! Check it out)](https://github.com/tristanjtate/discount-promo-analysis)
+ - [Weather Prediction Python Application(My most recent! Check it out)](https://github.com/tristanjtate/python-weather-api)
+ - [Retail Discount Promo Analysis ](https://github.com/tristanjtate/discount-promo-analysis)
  - [Airbnb Tableau Project](https://public.tableau.com/app/profile/tristan.t4195/viz/AirbnbTableauProject_17430964955000/Dashboard1)
  - [World Layoffs - Data Cleaning & EDA MySQL Analysis](https://github.com/tristanjtate/Layoffs_analysis_Project)
  - [Student Exam Score Analysis](https://github.com/tristanjtate/StudentExamScoreAnalysis)
@@ -39,7 +40,7 @@
 
 ## 🌐 Portfolio Website
 
-  - [Actual Portfolio Website (Updating! - transitioning into Data Analytics)](https://tristanjtate.github.io/PersonalPortfolio/)
+  - [Actual Portfolio Website (Currently a side project/not up)](https://tristanjtate.github.io/PersonalPortfolio/)
    
 
 ## 🌱 Certifications:
