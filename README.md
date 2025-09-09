@@ -4,7 +4,7 @@
 ## 👨‍💻 My Projects:
 
 ### 📊 Data Analysis Projects + Data Visualization Projects (by most recent!)
- - [Medical Appointment No-shows Python EDA]([https://github.com/tristanjtate/python-weather-api](https://github.com/tristanjtate/medical_appointment_no_shows_eda/tree/main))
+ - [Medical Appointment No-shows Python EDA](https://github.com/tristanjtate/medical_appointment_no_shows_eda/tree/main)
  - [Weather Prediction Python Application](https://github.com/tristanjtate/python-weather-api)
  - [Retail Discount Promo Analysis ](https://github.com/tristanjtate/discount-promo-analysis)
  - [Airbnb Tableau Project](https://public.tableau.com/app/profile/tristan.t4195/viz/AirbnbTableauProject_17430964955000/Dashboard1)
