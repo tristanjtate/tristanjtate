@@ -4,6 +4,7 @@
 ## 👨‍💻 My Projects:
 
 ### 📊 Data Analysis Projects + Data Visualization Projects (by most recent!)
+ - [Tucson Crime Extreme Heat Analysis](https://github.com/tristanjtate/Tucson_Crime_Extreme_Heat_Analysis)
  - [Medical Appointment No-shows Python EDA](https://github.com/tristanjtate/medical_appointment_no_shows_eda/tree/main)
  - [Weather Prediction Python Application](https://github.com/tristanjtate/python-weather-api)
  - [Retail Discount Promo Analysis ](https://github.com/tristanjtate/discount-promo-analysis)
